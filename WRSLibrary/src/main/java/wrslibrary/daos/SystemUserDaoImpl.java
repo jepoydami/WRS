@@ -5,7 +5,7 @@
  */
 package wrslibrary.daos;
 
-import dtos.SystemUserDto;
+import wrslibrary.dtos.SystemUserDto;
 import java.util.List;
 
 /**

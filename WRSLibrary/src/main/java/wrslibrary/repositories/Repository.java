@@ -1,4 +1,4 @@
-package repositories;
+package wrslibrary.repositories;
 
 import java.util.List;
 

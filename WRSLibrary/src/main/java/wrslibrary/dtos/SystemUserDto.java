@@ -1,4 +1,4 @@
-package dtos;
+package wrslibrary.dtos;
 
 import java.util.UUID;
 

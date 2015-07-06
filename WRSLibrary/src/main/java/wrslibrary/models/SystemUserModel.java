@@ -1,4 +1,4 @@
-package models;
+package wrslibrary.models;
 
 import java.util.UUID;
 
